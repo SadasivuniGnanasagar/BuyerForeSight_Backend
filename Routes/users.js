@@ -2,7 +2,7 @@ const express = require('express');
 const fs = require('fs');
 const router = express.Router();
 
-const filePath = './data/users.json';
+const filePath = './Data/users.json';
 
 // Helper function to read data
 const getUsers = () => {
