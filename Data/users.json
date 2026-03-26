@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Sharma",
+    "email": "amit.sharma@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Verma",
+    "email": "rahul.verma@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "John Doe",
+    "email": "john.doe@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Jane Smith",
+    "email": "jane.smith@gmail.com"
+  }
+]
