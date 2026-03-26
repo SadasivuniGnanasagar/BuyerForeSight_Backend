@@ -85,6 +85,9 @@ router.put('/:id', (req, res) => {
     if (index === -1) {
         return res.status(404).json({ message: "User not found" });
     }
+    if (!req.body.name || !req.body.email) {
+        return res.status(400).json({ message: "Name and Email required" });
+    }
 
     users[index] = {
         ...users[index],
